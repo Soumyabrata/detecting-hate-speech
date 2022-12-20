@@ -70,5 +70,4 @@ streamlit run HateChecker.py
 ![hatecheckinit](/uploads/d48ea30c78be2fb08a1ee1f0839bb4cf/hatecheckinit.png)
 
 ## Authors and Acknowledgements
-#### Author: Shane Cooke (17400206)
-#### Acknowledgments: Soumyabrata Dev (Supervisor)
+The author of this code is Shane Cooke, University College Dublin.
