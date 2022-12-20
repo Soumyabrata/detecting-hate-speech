@@ -1,4 +1,7 @@
-# Detecting Hate Speech
+# Multi Platform-based Hate Speech Detection
+With the spirit of reproducible research, this repository includes a complete collection of codes required to generate the results and diagrams presented in the paper:
+
+> S. Cooke, D. Graux, and S. Dev, Multi Platform-based Hate Speech Detection, *International Conference on Agents and Artificial Intelligence (ICAART)*, 2022.
 
 ## Description
 
